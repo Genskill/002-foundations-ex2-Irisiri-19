@@ -2,9 +2,9 @@
 #include<cs50.h>
 int main(void)
 {
-	int a = get_int ("Side 1 ");
-	int b = get_int ("Side 2 ");
-	int c = get_int ("Side 3 ");
+	float a = get_float ("Side 1 ");
+	float b = get_float ("Side 2 ");
+	float c = get_float ("Side 3 ");
 	int max=0,sum=0;
 	if (a>b){
 		if (a>c){
