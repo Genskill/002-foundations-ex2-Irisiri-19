@@ -41,7 +41,7 @@ int main(void)
 			if(max==sum)
 				printf("Yes\n");
 			else
-				printf("No\n");}}
+				printf("No\n");}} 
 
 
 }
